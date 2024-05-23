@@ -1,4 +1,4 @@
-# FronTend
+# FrontEnd
 
 Este proyecto ha sido creado mediante [Angular CLI](https://github.com/angular/angular-cli) en su versión 16.2.7.
 
